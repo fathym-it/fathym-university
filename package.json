@@ -30,8 +30,13 @@
     "@lcu/apps": "0.0.12",
     "@lcu/common": "0.0.12",
     "@lcu/core": "0.0.12",
+<<<<<<< HEAD
     "@lcu/daf-common": "0.0.21",
     "@lcu/daf-ui": "0.0.21",
+=======
+    "@lcu/daf-common": "0.0.15",
+    "@lcu/daf-ui": "0.0.15",
+>>>>>>> 1581beb1262a1df51c06a231b7a6a403afed6424
     "@lcu/elements": "0.0.12",
     "@lcu/enterprises": "0.0.3",
     "@lcu/hosting": "0.0.12",

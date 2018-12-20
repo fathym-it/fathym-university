@@ -1,6 +1,6 @@
-import { GridService } from './services/grid.service';
 import { Component, OnInit } from '@angular/core';
 import { DataGridConfig, ColumnDefinition, DataGridPagination, DataGridFeatures, PipeConstants } from '@lcu/daf-ui';
+import { GridService } from './services/grid.service';
 
 @Component({
   selector: 'lcu-root',
