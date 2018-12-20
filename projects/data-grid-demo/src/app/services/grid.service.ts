@@ -10,7 +10,7 @@ export class GridService {
 
   public demoData(): Observable<any[]> {
 
-   return this.httpClient.get<any[]>('./demoData.json')
+   return this.httpClient.get<any[]>('../../assets/api/demoData.json')
    .pipe(
       map((res) => {
         return res;

@@ -1,0 +1,63 @@
+[
+  {
+    "icon": "fa fa-user",
+    "isActive": false,
+    "balance": "$2,193.87",
+    "age": 23,
+    "name": "Peggy Estes",
+    "company": "ACUMENTOR",
+    "email": "peggyestes@acumentor.com",
+    "phone": "+1 (891) 584-3278",
+    "temp": 78.095969596,
+    "decimal": 795345.0000002334
+  },
+  {
+    "icon": "fa fa-user",
+    "isActive": true,
+    "balance": "$1,196.70",
+    "age": 29,
+    "name": "Leticia Valenzuela",
+    "company": "ZENSOR",
+    "email": "leticiavalenzuela@zensor.com",
+    "phone": "+1 (841) 457-3206",
+    "temp": 43.7686,
+    "decimal": 75.345
+  },
+  {
+    "icon": "fa fa-user",
+    "isActive": false,
+    "balance": "$2,313.50",
+    "age": 32,
+    "name": "Matthews Barrett",
+    "company": "XIIX",
+    "email": "matthewsbarrett@xiix.com",
+    "phone": "+1 (989) 548-3567",
+    "temp": 99.345345333,
+    "decimal": 3.423424
+  },
+  {
+    "icon": "fa fa-user",
+    "isActive": true,
+    "balance": "$2,158.56",
+    "age": 31,
+    "name": "Barnes Rodgers",
+    "gender": "male",
+    "company": "NETILITY",
+    "email": "barnesrodgers@netility.com",
+    "phone": "+1 (887) 561-2441",
+    "temp": 65.2342,
+    "decimal": 902.34234
+  },
+  {
+    "icon": "fa fa-user",
+    "isActive": true,
+    "balance": "$3,662.82",
+    "age": 25,
+    "name": "Day Roach",
+    "company": "NETBOOK",
+    "email": "dayroach@netbook.com",
+    "phone": "+1 (986) 435-2951",
+    "temp": 45,
+    "decimal": 9734
+  }
+]
