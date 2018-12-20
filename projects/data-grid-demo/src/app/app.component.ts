@@ -1,9 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { DataGridConfig, ColumnDefinition,  } from '@lcu/daf-ui';
+import { DataGridConfig, ColumnDefinition, DataGridPagination, DataGridFeatures, PipeConstants } from '@lcu/daf-ui';
 import { GridService } from './services/grid.service';
-import { DataGridPagination } from '@lcu/daf-ui/lib/data-grid/config/data-grid-pagination.config';
-import { DataGridFeatures } from '@lcu/daf-ui/lib/data-grid/config/data-grid-features.config';
-import { PipeConstants } from '@lcu/daf-ui/lib/data-grid/utils/constants/pipe.constants';
 
 @Component({
   selector: 'lcu-root',
